@@ -1,1 +1,12 @@
 node_modules
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-chat-socketio-handshake.iml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+projectFilesBackup/.idea/workspace.xml
+npm-debug.log
+*.log
